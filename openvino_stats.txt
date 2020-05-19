@@ -1,0 +1,184 @@
+OpenVINO Results
+
+Current date and time :2020-05-16 21:20:58
+Model : INC
+Probably Threshold: 0.3
+Accuracy: 93.61549497847919%
+Load Model Time: 319.67 ms
+Total Inference Time: 37951.67 ms
+Average Inference Time: 27.23 ms
+
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time :2020-05-16 21:35:57
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.3
+Accuracy: 93.61549497847919%
+Load Model Time: 319.87 ms
+Total Inference Time: 37215.32 ms
+Average Inference Time: 26.70 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time :2020-05-16 21:47:55
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.3
+Accuracy: 93.61549497847919%
+Load Model Time: 323.67 ms
+Total Inference Time: 35966.65 ms
+Average Inference Time: 25.80 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time:
+2020-05-16 22:14:23
+Platform: darwin
+Device: CPU
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.3
+Accuracy: 93.61549497847919%
+Load Model Time: 334.15 ms
+Total Inference Time: 36670.40 ms
+Average Inference Time: 26.31 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time:
+2020-05-16 22:18:03
+Platform: darwin
+Device: CPU
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.3
+Accuracy: 93.61549497847919%
+Load Model Time: 334.82 ms
+Total Inference Time: 36241.22 ms
+Average Inference Time: 26.00 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time:
+2020-05-17 20:57:57
+Platform: linux
+Device: CPU
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.4
+Accuracy: 87.30272596843616%
+Load Model Time: 363.00 ms
+Total Inference Time: 96762.16 ms
+Average Inference Time: 69.41 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time:
+2020-05-17 21:17:52
+Platform: linux
+Device: CPU
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.4
+Accuracy: 87.30272596843616%
+Load Model Time: 359.04 ms
+Total Inference Time: 96000.78 ms
+Average Inference Time: 68.87 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time:
+2020-05-17 21:21:09
+Platform: linux
+Device: CPU
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.4
+Accuracy: 87.30272596843616%
+Load Model Time: 366.63 ms
+Total Inference Time: 95911.37 ms
+Average Inference Time: 68.80 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time:
+2020-05-17 21:28:03
+Platform: linux
+Device: CPU
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.3
+Accuracy: 93.11334289813486%
+Load Model Time: 368.83 ms
+Total Inference Time: 96012.43 ms
+Average Inference Time: 68.88 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time:
+2020-05-17 21:35:20
+Platform: linux
+Device: CPU
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.3
+Accuracy: 93.11334289813486%
+Load Model Time: 368.26 ms
+Total Inference Time: 95883.67 ms
+Average Inference Time: 68.78 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time:
+2020-05-17 21:39:47
+Platform: linux
+Device: CPU
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.3
+Accuracy: 93.11334289813486%
+Load Model Time: 369.66 ms
+Total Inference Time: 96188.43 ms
+Average Inference Time: 69.00 ms
+
+*********************************************************************************
+
+
+OpenVINO Results
+
+Current date and time:
+2020-05-19 05:32:26
+Platform: linux
+Device: CPU
+Model : ./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.xml
+Probably Threshold: 0.3
+Accuracy: 93.11334289813486%
+Load Model Time: 463.18 ms
+Total Inference Time: 95452.23 ms
+Average Inference Time: 68.47 ms
+
+*********************************************************************************
+
+
